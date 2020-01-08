@@ -1,5 +1,6 @@
 {
-  "account.subscription.duration" : "nur eine Schnur.",
-  "key_one_here" : "Testen Sie dies für Lifesum.",
-  "another.key" : "ein weiterer Schlüssel hier."
+  "account.subscription.duration" : "just a string.",
+  "key_one_here" : "Testing this out for Lifesum.",
+  "another.key" : "another key here.",
+  "new.branch.here" : "Neue Zeichenfolge."
 }

@@ -2,5 +2,6 @@
   "account.subscription.duration" : "sólo una cadena. Esto es un [marcador de posición].",
   "key_one_here" : "Probando esto para Lifesum.",
   "another.key" : "otra llave aquí.",
-  "new.branch.here" : "Nueva cuerda."
+  "new.branch.here" : "Nueva cuerda.",
+  "new_string_here" : "La cuerda es nueva. Gits."
 }

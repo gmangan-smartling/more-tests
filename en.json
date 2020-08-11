@@ -2,5 +2,6 @@
   "account.subscription.duration": "just a string. This is a [placeholder].",
   "key_one_here": "Testing this out for Lifesum.",
   "another.key": "another key here.",
-  "new.branch.here": "New string."
+  "new.branch.here": "New string.",
+  "new_string_here": "String is new. Gits."
 }

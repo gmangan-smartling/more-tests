@@ -1,5 +1,5 @@
 {
-  "account.subscription.duration": "just a string.",
+  "account.subscription.duration": "just a string. This is a [placeholder].",
   "key_one_here": "Testing this out for Lifesum.",
   "another.key": "another key here.",
   "new.branch.here": "New string."
